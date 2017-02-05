@@ -1,4 +1,4 @@
-echo "# eggheadio_build_1st_quality_react_app" >> README.md
+# eggheadio_build_1st_quality_react_app
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
